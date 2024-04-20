@@ -1,0 +1,16 @@
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\bin\Debug\net8.0-windows\Task3.exe
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\bin\Debug\net8.0-windows\Task3.deps.json
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\bin\Debug\net8.0-windows\Task3.runtimeconfig.json
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\bin\Debug\net8.0-windows\Task3.dll
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\bin\Debug\net8.0-windows\Task3.pdb
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\Task3.Task3.resources
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\Task3.csproj.GenerateResource.cache
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\Task3.AssemblyInfoInputs.cache
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\Task3.AssemblyInfo.cs
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\Task3.dll
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\refint\Task3.dll
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\Task3.pdb
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\Task3.genruntimeconfig.cache
+C:\Users\Simeon Gunev\source\repos\WindowsForms\Task3\obj\Debug\net8.0-windows\ref\Task3.dll

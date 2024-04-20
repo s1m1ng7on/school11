@@ -1,0 +1,14 @@
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\bin\Debug\net8.0\OnlineStoreProject.exe
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\bin\Debug\net8.0\OnlineStoreProject.deps.json
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\bin\Debug\net8.0\OnlineStoreProject.runtimeconfig.json
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\bin\Debug\net8.0\OnlineStoreProject.dll
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\bin\Debug\net8.0\OnlineStoreProject.pdb
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.AssemblyInfoInputs.cache
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.AssemblyInfo.cs
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.csproj.CoreCompileInputs.cache
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.dll
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\obj\Debug\net8.0\refint\OnlineStoreProject.dll
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.pdb
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.genruntimeconfig.cache
+C:\Users\Simeon Gunev\source\repos\OnlineStoreProject\OnlineStoreProject\obj\Debug\net8.0\ref\OnlineStoreProject.dll
