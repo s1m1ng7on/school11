@@ -1,0 +1,15 @@
+D:\Projects\School\Object-oriented Programming\Events\Task2\bin\Debug\net8.0\Task2.exe
+D:\Projects\School\Object-oriented Programming\Events\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Projects\School\Object-oriented Programming\Events\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Projects\School\Object-oriented Programming\Events\Task2\bin\Debug\net8.0\Task2.dll
+D:\Projects\School\Object-oriented Programming\Events\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Projects\School\Object-oriented Programming\Events\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\School\Object-oriented Programming\Events\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Projects\School\Object-oriented Programming\Events\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Projects\School\Object-oriented Programming\Events\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Projects\School\Object-oriented Programming\Events\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\Projects\School\Object-oriented Programming\Events\Task2\obj\Debug\net8.0\Task2.dll
+D:\Projects\School\Object-oriented Programming\Events\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Projects\School\Object-oriented Programming\Events\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Projects\School\Object-oriented Programming\Events\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Projects\School\Object-oriented Programming\Events\Task2\obj\Debug\net8.0\ref\Task2.dll

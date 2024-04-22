@@ -10,7 +10,9 @@ namespace Task2
 {
     public class BankAccount : IObserver
     {
-        public decimal Balance { get; private set; }
+        public string Id { get; private set; }
+        public string IBAN { get; private set; }
+        public decimal Balance { get; set; }
 
         public BankAccount()
         {
@@ -20,7 +22,7 @@ namespace Task2
         public void Update(BankAccount bankAccount, Transaction transaction)
         {
             if (bankAccount == this)
-                transaction.Proceed();
+                transaction.Complete();
         }
     }
 }
