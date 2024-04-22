@@ -1,8 +1,41 @@
 ﻿namespace Task1
 {
-    public static class Class
-    { 
-        public static List<Student> Students = new List<Student>();
+    public class Class
+    {
+        private Publisher publisher;
+
+        public List<Student> Students { get; private set; }
+        public List<Parent> Parents { get; private set; }
+
+        public Class()
+        {
+            Students = new List<Student>();
+            Parents = new List<Parent>();
+            publisher = new Publisher();
+        }
+
+        public void AddStudent(Student student)
+        {
+            Students.Add(student);
+            AddObserver(student);
+        }
+
+        public void AddParent(Parent parent)
+        {
+            parent.SetChildren(Students.Where(c => parent.ChildrenNames.Contains(c.Name)).ToList());
+            Parents.Add(parent);
+            AddObserver(parent);
+        }
+
+        public void AddGrade(Student student, string subject, int grade)
+        {
+            publisher.Notify(student, subject, grade);
+        }
+
+        public void AddObserver(IObserver observer)
+        {
+            publisher.AddObserver(observer);
+        }
     }
 
     public class Student : IObserver
@@ -18,14 +51,6 @@
             Grade = grade;
             ClassNumber = classNumber;
             Grades = new Dictionary<string, List<int>>();
-
-            Class.Students.Add(this);
-            Publisher.AddObserver(this);
-        }
-
-        public void AddGrade(string subject, int grade)
-        {
-            Publisher.Notify(this, subject, grade);
         }
 
         public void Update(Student student, string subject, int grade)
@@ -44,15 +69,19 @@
     {
         public string Name { get; private set; }
         public string Email { get; private set; }
+        public List<string> ChildrenNames { get; private set; }
         public List<Student> Children { get; private set; }
 
         public Parent(string name, string email, params string[] childrenNames)
         {
             Name = name;
             Email = email;
-            Children = Class.Students.Where(s => childrenNames.Contains(s.Name)).ToList();
+            ChildrenNames = childrenNames.ToList();
+        }
 
-            Publisher.AddObserver(this);
+        public void SetChildren(List<Student> children)
+        {
+            Children = children;
         }
 
         public void Update(Student student, string subject, int grade)

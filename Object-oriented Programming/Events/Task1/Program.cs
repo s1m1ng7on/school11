@@ -23,6 +23,8 @@
 
         static void GetInput()
         {
+            Class myClass = new Class();
+
             string[] inputArgs;
             while ((inputArgs = Console.ReadLine().Split(' '))[0].ToLower() != "end")
             {
@@ -30,14 +32,16 @@
                 {
                     case "student":
                         Student newStudent = new Student(inputArgs[1], int.Parse(inputArgs[2]), int.Parse(inputArgs[3]));
+                        myClass.AddStudent(newStudent);
                         break;
                     case "parent":
                         Parent newParent = new Parent(inputArgs[1], inputArgs[2], inputArgs.Skip(3).ToArray());
+                        myClass.AddParent(newParent);
                         break;
                     case "grade":
-                        Student selectedStudent = Class.Students.Where(s => s.Name == inputArgs[1]).FirstOrDefault();
+                        Student selectedStudent = myClass.Students.Where(s => s.Name == inputArgs[1]).FirstOrDefault();
                         if (selectedStudent != null)
-                            selectedStudent.AddGrade(inputArgs[2], int.Parse(inputArgs[3]));
+                            myClass.AddGrade(selectedStudent, inputArgs[2], int.Parse(inputArgs[3]));
                         break;
                 }
             }

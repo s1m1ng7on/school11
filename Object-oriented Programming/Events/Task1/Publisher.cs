@@ -1,15 +1,15 @@
 ﻿namespace Task1
 {
-    public static class Publisher
+    public class Publisher
     {
-        private static List<IObserver> observers = new List<IObserver>();
+        private List<IObserver> observers = new List<IObserver>();
 
-        public static void AddObserver(IObserver observer)
+        public void AddObserver(IObserver observer)
         {
             observers.Add(observer);
         }
 
-        public static void Notify(Student student, string subject, int grade)
+        public void Notify(Student student, string subject, int grade)
         {
             foreach (IObserver observer in observers)
             {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4YJoeSDHLrGQbzDU5ET5y6PvOLeH1rIgPyQUXnqjsmM2Ra/2A1HNFVdM+XMGlH/4eq/FNi7bXfMZMJATorYf1g==",
+  "dgSpecHash": "5dngd2eugywfIFi6ezsZuw0lAgVomm5b7ClGTbPNAq1HysDtylkvtrhrTpi1IaQrWqN5a4AM9M7PYast0l6b7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simeon Gunev\\source\\repos\\Databases\\Task1\\Task1.csproj",
+  "projectFilePath": "D:\\Projects\\School\\Software Development\\Databases\\Task1\\Task1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simeon Gunev\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Simeon Gunev\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

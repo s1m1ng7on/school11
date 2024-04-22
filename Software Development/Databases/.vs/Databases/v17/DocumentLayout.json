@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Simeon Gunev\\source\\repos\\Databases\\",
+  "WorkspaceRootPath": "D:\\Projects\\School\\Software Development\\Databases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{810340DA-0BA9-498F-BCDD-E39DFB8DF132}|Task1\\Task1.csproj|c:\\users\\simeon gunev\\source\\repos\\databases\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{810340DA-0BA9-498F-BCDD-E39DFB8DF132}|Task1\\Task1.csproj|d:\\projects\\school\\software development\\databases\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{810340DA-0BA9-498F-BCDD-E39DFB8DF132}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Simeon Gunev\\source\\repos\\Databases\\Task1\\Program.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\Databases\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "C:\\Users\\Simeon Gunev\\source\\repos\\Databases\\Task1\\Program.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\Databases\\Task1\\Program.cs",
               "RelativeToolTip": "Task1\\Program.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAcwCAAAADiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

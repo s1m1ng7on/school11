@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simeon Gunev\\source\\repos\\Databases\\Task1\\Task1.csproj": {}
+    "D:\\Projects\\School\\Software Development\\Databases\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simeon Gunev\\source\\repos\\Databases\\Task1\\Task1.csproj": {
+    "D:\\Projects\\School\\Software Development\\Databases\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simeon Gunev\\source\\repos\\Databases\\Task1\\Task1.csproj",
+        "projectUniqueName": "D:\\Projects\\School\\Software Development\\Databases\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\Simeon Gunev\\source\\repos\\Databases\\Task1\\Task1.csproj",
+        "projectPath": "D:\\Projects\\School\\Software Development\\Databases\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Simeon Gunev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simeon Gunev\\source\\repos\\Databases\\Task1\\obj\\",
+        "outputPath": "D:\\Projects\\School\\Software Development\\Databases\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simeon Gunev\\AppData\\Roaming\\NuGet\\NuGet.Config",
