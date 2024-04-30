@@ -10,13 +10,19 @@ namespace Task2
 {
     public class BankAccount : IObserver
     {
-        public string Id { get; private set; }
-        public string IBAN { get; private set; }
+        private static int identity = 1;
+
+        public int Id { get; private set; }
+        public string Address { get; private set; }
         public decimal Balance { get; set; }
 
-        public BankAccount()
+        public BankAccount(string address)
         {
+            Id = identity;
+            Address = address;
             Balance = 0;
+
+            identity++;
         }
 
         public void Update(BankAccount bankAccount, Transaction transaction)

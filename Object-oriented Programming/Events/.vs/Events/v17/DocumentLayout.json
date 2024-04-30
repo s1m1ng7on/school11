@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Projects\\School\\Object-oriented Programming\\Events\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A485C7C-AD40-4C9F-B7A0-6389B0B6CFB2}|Task2\\Task2.csproj|d:\\projects\\school\\object-oriented programming\\events\\task2\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A485C7C-AD40-4C9F-B7A0-6389B0B6CFB2}|Task2\\Task2.csproj|solutionrelative:task2\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CF5F76B-8A14-46D7-976F-9123EFDDE388}|Task3\\Task3.csproj|d:\\projects\\school\\object-oriented programming\\events\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF5F76B-8A14-46D7-976F-9123EFDDE388}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A485C7C-AD40-4C9F-B7A0-6389B0B6CFB2}|Task2\\Task2.csproj|d:\\projects\\school\\object-oriented programming\\events\\task2\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A485C7C-AD40-4C9F-B7A0-6389B0B6CFB2}|Task2\\Task2.csproj|solutionrelative:task2\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CF5F76B-8A14-46D7-976F-9123EFDDE388}|Task3\\Task3.csproj|d:\\projects\\school\\object-oriented programming\\events\\task3\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF5F76B-8A14-46D7-976F-9123EFDDE388}|Task3\\Task3.csproj|solutionrelative:task3\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A485C7C-AD40-4C9F-B7A0-6389B0B6CFB2}|Task2\\Task2.csproj|d:\\projects\\school\\object-oriented programming\\events\\task2\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A485C7C-AD40-4C9F-B7A0-6389B0B6CFB2}|Task2\\Task2.csproj|solutionrelative:task2\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CF5F76B-8A14-46D7-976F-9123EFDDE388}|Task3\\Task3.csproj|d:\\projects\\school\\object-oriented programming\\events\\task3\\workforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF5F76B-8A14-46D7-976F-9123EFDDE388}|Task3\\Task3.csproj|solutionrelative:task3\\workforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A485C7C-AD40-4C9F-B7A0-6389B0B6CFB2}|Task2\\Task2.csproj|D:\\Projects\\School\\Object-oriented Programming\\Events\\task2\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A485C7C-AD40-4C9F-B7A0-6389B0B6CFB2}|Task2\\Task2.csproj|solutionrelative:task2\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CF5F76B-8A14-46D7-976F-9123EFDDE388}|Task3\\Task3.csproj|d:\\projects\\school\\object-oriented programming\\events\\task3\\standartemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF5F76B-8A14-46D7-976F-9123EFDDE388}|Task3\\Task3.csproj|solutionrelative:task3\\standartemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF5F76B-8A14-46D7-976F-9123EFDDE388}|Task3\\Task3.csproj|d:\\projects\\school\\object-oriented programming\\events\\task3\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF5F76B-8A14-46D7-976F-9123EFDDE388}|Task3\\Task3.csproj|solutionrelative:task3\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bank.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task2\\Bank.cs",
-              "RelativeDocumentMoniker": "Task2\\Bank.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task2\\Bank.cs",
-              "RelativeToolTip": "Task2\\Bank.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAA3AAAA",
+              "DocumentIndex": 2,
+              "Title": "WorkForce.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task3\\WorkForce.cs",
+              "RelativeDocumentMoniker": "Task3\\WorkForce.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task3\\WorkForce.cs",
+              "RelativeToolTip": "Task3\\WorkForce.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T11:02:47.073Z",
+              "WhenOpened": "2024-04-24T09:25:11.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Publisher.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task2\\Publisher.cs",
-              "RelativeDocumentMoniker": "Task2\\Publisher.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task2\\Publisher.cs",
-              "RelativeToolTip": "Task2\\Publisher.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAAJAAAA",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task3\\Publisher.cs",
+              "RelativeDocumentMoniker": "Task3\\Publisher.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task3\\Publisher.cs",
+              "RelativeToolTip": "Task3\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T10:43:57.972Z",
+              "WhenOpened": "2024-04-24T09:20:27.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task3\\Job.cs",
+              "RelativeDocumentMoniker": "Task3\\Job.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task3\\Job.cs",
+              "RelativeToolTip": "Task3\\Job.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:01:04.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Owner.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task2\\Owner.cs",
-              "RelativeDocumentMoniker": "Task2\\Owner.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task2\\Owner.cs",
-              "RelativeToolTip": "Task2\\Owner.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA1AAAA",
+              "Title": "StandartEmployee.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task3\\StandartEmployee.cs",
+              "RelativeDocumentMoniker": "Task3\\StandartEmployee.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task3\\StandartEmployee.cs",
+              "RelativeToolTip": "Task3\\StandartEmployee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T10:27:35.328Z",
+              "WhenOpened": "2024-04-24T08:57:05.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task2\\BankAccount.cs",
-              "RelativeDocumentMoniker": "Task2\\BankAccount.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task2\\BankAccount.cs",
-              "RelativeToolTip": "Task2\\BankAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Events\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T10:26:27.167Z",
+              "WhenOpened": "2024-04-24T08:53:02.405Z",
               "EditorCaption": ""
             }
           ]
