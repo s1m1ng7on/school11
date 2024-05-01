@@ -1,46 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data;
 using System.Data.SqlClient;
-using System.Data.Common;
-using System.Data;
 
 namespace OnlineStoreProject
 {
     public class DatabaseHelper
     {
-        private SqlConnection connection;
+        private readonly string _connectionString;
 
         public DatabaseHelper(string connectionString)
         {
-            connection = new SqlConnection(connectionString);
-            Open();
+            _connectionString = connectionString;
         }
 
-        public SqlDataReader ExecuteReader(string query)
+        public DataTable ExecuteReader(string query)
         {
-            SqlCommand command = new SqlCommand(query, connection);
-            return command.ExecuteReader();
-        }
-
-        public void ExecuteNonQuery(string query)
-        {
-            SqlCommand command = new SqlCommand(query, connection);
-            command.ExecuteNonQuery();
-        }
-
-        public void Open()
-        {
-            if (connection != null && connection.State == ConnectionState.Closed)
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            {
                 connection.Open();
-        }
 
-        public void Close()
-        {
-            if (connection != null && connection.State == ConnectionState.Open)
-                connection.Close();
+                SqlCommand command = new SqlCommand(query, connection);
+
+                DataTable dataTable = new DataTable();
+                dataTable.Load(command.ExecuteReader());
+
+                return dataTable;
+            }
         }
     }
 }

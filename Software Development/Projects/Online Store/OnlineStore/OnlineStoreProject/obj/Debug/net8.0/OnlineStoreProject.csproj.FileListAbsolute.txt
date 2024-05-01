@@ -44,9 +44,9 @@ D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\Online
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.AssemblyInfo.cs
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.csproj.CoreCompileInputs.cache
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.sourcelink.json
-D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\OnlineStoreProject\obj\Debug\net8.0\OnlineSt.17664375.Up2Date
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.dll
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\OnlineStoreProject\obj\Debug\net8.0\refint\OnlineStoreProject.dll
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.pdb
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.genruntimeconfig.cache
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\OnlineStoreProject\obj\Debug\net8.0\ref\OnlineStoreProject.dll
+D:\Projects\School\Software Development\Projects\Online Store\OnlineStore\OnlineStoreProject\obj\Debug\net8.0\OnlineStoreProject.csproj.CopyComplete
