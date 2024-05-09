@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EeXOPumSEDM8UuJu54jPfLTRNqwC3P/ytFZrFrYS+l9WCi1szcheLHwMy8JYgp4WT1MY1vQl4hI6oEt3lshH3w==",
+  "dgSpecHash": "+SND3c5ySuv5WNDh/ca13RDgTBUKxRxoeF/+q53CD732ghnAxPbpv41C27V/vQIHzXC0x1/TSlXWt1n6gSgsPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simeon Gunev\\source\\repos\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject.csproj",
+  "projectFilePath": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\OnlineStoreEFCoreProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simeon Gunev\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Simeon Gunev\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

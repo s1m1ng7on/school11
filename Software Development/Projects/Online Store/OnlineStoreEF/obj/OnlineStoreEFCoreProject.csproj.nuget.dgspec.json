@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simeon Gunev\\source\\repos\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject.csproj": {}
+    "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\OnlineStoreEFCoreProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simeon Gunev\\source\\repos\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject.csproj": {
+    "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\OnlineStoreEFCoreProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simeon Gunev\\source\\repos\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject.csproj",
+        "projectUniqueName": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\OnlineStoreEFCoreProject.csproj",
         "projectName": "OnlineStoreEFCoreProject",
-        "projectPath": "C:\\Users\\Simeon Gunev\\source\\repos\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject.csproj",
+        "projectPath": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\OnlineStoreEFCoreProject.csproj",
         "packagesPath": "C:\\Users\\Simeon Gunev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simeon Gunev\\source\\repos\\OnlineStoreEFCoreProject\\OnlineStoreEFCoreProject\\obj\\",
+        "outputPath": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simeon Gunev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -78,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

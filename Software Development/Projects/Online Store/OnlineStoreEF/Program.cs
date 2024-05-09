@@ -1,7 +1,4 @@
-﻿using System;
-using System.Data;
-using Microsoft.EntityFrameworkCore.Metadata.Conventions;
-using OnlineStoreEFCoreProject.Entities;
+﻿using OnlineStoreEFCoreProject.Models.Entities;
 
 namespace OnlineStoreEFCoreProject
 {
@@ -30,52 +27,45 @@ namespace OnlineStoreEFCoreProject
                         break;
                     case 2:
                         List<Seller> sellers = databaseHelper.GetAll<Seller>();
-
-                        foreach (Seller seller in sellers)
-                        {
-                            Console.WriteLine($"{seller.Name} ({seller.Website})");
-                        }
+                        sellers.ForEach(Console.WriteLine);
                         break;
                     case 3:
                         List<Customer> customers = databaseHelper.GetAll<Customer>();
-
-                        foreach (Customer customer in customers)
-                        {
-                            Console.WriteLine($"{customer.FirstName} {customer.LastName} ({customer.Email})");
-                        }
-
+                        customers.ForEach(Console.WriteLine);
                         break;
                     case 4:
                         List<Order> orders = databaseHelper.GetAll<Order>();
 
                         foreach (Order order in orders)
                         {
-                            Console.WriteLine($"{order.Product.Name} purchased by {order.Include(i => i.Customer).FirstName} {order.Customer.LastName} on {order.Date}");
+                            Console.WriteLine($"{databaseHelper.Get<Product>((int)order.ProductId).Name} purchased by {databaseHelper.Get<Customer>((int)order.CustomerId).FirstName} {databaseHelper.Get<Customer>((int)order.CustomerId).LastName} on {order.Date}");
                         }
 
                         break;
-                    /*case 5:
-                        Console.WriteLine("Enter Product Id:");
+                    case 5:
+                        Console.Write("Enter Product Id: ");
                         int productId = int.Parse(Console.ReadLine());
 
-                        DataTable selectedProduct = databaseHelper.ExecuteReader($"SELECT p.Id, p.Name, p.Description, p.Quantity, p.Price, c.Name AS Category, s.Name AS Seller FROM Products AS p JOIN Categories AS c ON p.CategoryId = c.Id JOIN Sellers AS s ON p.SellerId = s.Id WHERE p.Id = {productId}");
-                        Helper.PrintProducts(selectedProduct);
+                        Product selectedProduct = databaseHelper.Get<Product>(productId);
+                        Console.WriteLine($"{selectedProduct.Name} - {selectedProduct.Description}");
+
                         break;
-                    case 6:
+                    /*case 6:
                         Console.WriteLine("Enter Seller Id:");
                         int sellerId = int.Parse(Console.ReadLine());
 
                         DataTable selectedSeller = databaseHelper.ExecuteReader($"SELECT * FROM Sellers WHERE Id = {sellerId}");
                         Helper.PrintSellers(selectedSeller);
-                        break;
+                        break;*/
                     case 7:
                         Console.WriteLine("Enter Customer Id:");
                         int customerId = int.Parse(Console.ReadLine());
 
-                        DataTable selectedCustomer = databaseHelper.ExecuteReader($"SELECT * FROM Customers WHERE Id = {customerId}");
-                        Helper.PrintCustomers(selectedCustomer);
+                        Customer selectedCustomer = databaseHelper.Get<Customer>(customerId);
+                        Console.WriteLine(selectedCustomer);
+
                         break;
-                    case 8:
+                    /*case 8:
                         Console.WriteLine("Enter Order Date in the following format (DD/MM/YYYY):");
                         string[] selectedDate = Console.ReadLine().Split('/');
 
@@ -114,6 +104,26 @@ namespace OnlineStoreEFCoreProject
                         databaseHelper.Add<Product>(newProduct);
 
                         break;
+                    case 10:
+                        Console.Write("Enter name: ");
+                        string newSellerName = Console.ReadLine();
+
+                        Console.Write("Enter website: ");
+                        string newSellerWebsite = Console.ReadLine();
+
+                        Console.Write("Enter email: ");
+                        string newSellerEmail = Console.ReadLine();
+
+                        Seller newSeller = new Seller()
+                        {
+                            Name = newSellerName,
+                            Website = newSellerWebsite,
+                            Email = newSellerEmail
+                        };
+
+                        databaseHelper.Add<Seller>(newSeller);
+
+                        break;
                 }
             }
         }
@@ -135,26 +145,10 @@ namespace OnlineStoreEFCoreProject
                 "(7)\t\tSearch for a Customer by Id\n" +
                 "(8)\t\tSearch for Orders Placed Before a Date\n" +
                 "------------------------------------------------------\n" +
+                "(9)\t\tAdd a new Product\n" +
+                "(10)\t\tAdd a new Seller\n" +
+                "------------------------------------------------------\n" +
                 "(end)\t\tClose the Application");
-        }
-
-        static void AddProduct(string name, string description, int quantity, decimal price, int categoryId, int sellerId)
-        {
-            using (OnlineStoreSimeonContext context = new OnlineStoreSimeonContext())
-            {
-                Product newProduct = new Product
-                {
-                    Name = name,
-                    Description = description,
-                    Quantity = quantity,
-                    Price = price,
-                    CategoryId = categoryId,
-                    SellerId = sellerId
-                };
-
-                context.Products.Add(newProduct);
-                context.SaveChanges();
-            }
         }
     }
 }
