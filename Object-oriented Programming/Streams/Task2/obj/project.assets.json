@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simeon Gunev\\source\\repos\\Streams\\Task2\\Task2.csproj",
+      "projectUniqueName": "D:\\Projects\\School\\Object-oriented Programming\\Streams\\Task2\\Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "C:\\Users\\Simeon Gunev\\source\\repos\\Streams\\Task2\\Task2.csproj",
+      "projectPath": "D:\\Projects\\School\\Object-oriented Programming\\Streams\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\Simeon Gunev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simeon Gunev\\source\\repos\\Streams\\Task2\\obj\\",
+      "outputPath": "D:\\Projects\\School\\Object-oriented Programming\\Streams\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simeon Gunev\\AppData\\Roaming\\NuGet\\NuGet.Config",

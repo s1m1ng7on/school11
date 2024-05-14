@@ -1,0 +1,15 @@
+D:\Projects\School\Object-oriented Programming\Streams\Task6\bin\Debug\net8.0\Task6.exe
+D:\Projects\School\Object-oriented Programming\Streams\Task6\bin\Debug\net8.0\Task6.deps.json
+D:\Projects\School\Object-oriented Programming\Streams\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+D:\Projects\School\Object-oriented Programming\Streams\Task6\bin\Debug\net8.0\Task6.dll
+D:\Projects\School\Object-oriented Programming\Streams\Task6\bin\Debug\net8.0\Task6.pdb
+D:\Projects\School\Object-oriented Programming\Streams\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\School\Object-oriented Programming\Streams\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+D:\Projects\School\Object-oriented Programming\Streams\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+D:\Projects\School\Object-oriented Programming\Streams\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+D:\Projects\School\Object-oriented Programming\Streams\Task6\obj\Debug\net8.0\Task6.sourcelink.json
+D:\Projects\School\Object-oriented Programming\Streams\Task6\obj\Debug\net8.0\Task6.dll
+D:\Projects\School\Object-oriented Programming\Streams\Task6\obj\Debug\net8.0\refint\Task6.dll
+D:\Projects\School\Object-oriented Programming\Streams\Task6\obj\Debug\net8.0\Task6.pdb
+D:\Projects\School\Object-oriented Programming\Streams\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+D:\Projects\School\Object-oriented Programming\Streams\Task6\obj\Debug\net8.0\ref\Task6.dll

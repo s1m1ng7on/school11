@@ -256,6 +256,6 @@ D:\Projects\School\Software Development\Projects\Online Store\OnlineStoreEF\bin\
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStoreEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStoreEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStoreEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Projects\School\Software Development\Projects\Online Store\OnlineStoreEF\obj\Debug\net8.0\OnlineStoreEFCoreProject.csproj.CopyComplete
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStoreEF\obj\Debug\net8.0\OnlineStoreEFCoreProject.genruntimeconfig.cache
 D:\Projects\School\Software Development\Projects\Online Store\OnlineStoreEF\obj\Debug\net8.0\ref\OnlineStoreEFCoreProject.dll
+D:\Projects\School\Software Development\Projects\Online Store\OnlineStoreEF\obj\Debug\net8.0\OnlineSt.A63835D7.Up2Date

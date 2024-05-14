@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simeon Gunev\\source\\repos\\Streams\\Task3\\Task3.csproj": {}
+    "D:\\Projects\\School\\Object-oriented Programming\\Streams\\Task3\\Task3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simeon Gunev\\source\\repos\\Streams\\Task3\\Task3.csproj": {
+    "D:\\Projects\\School\\Object-oriented Programming\\Streams\\Task3\\Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simeon Gunev\\source\\repos\\Streams\\Task3\\Task3.csproj",
+        "projectUniqueName": "D:\\Projects\\School\\Object-oriented Programming\\Streams\\Task3\\Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "C:\\Users\\Simeon Gunev\\source\\repos\\Streams\\Task3\\Task3.csproj",
+        "projectPath": "D:\\Projects\\School\\Object-oriented Programming\\Streams\\Task3\\Task3.csproj",
         "packagesPath": "C:\\Users\\Simeon Gunev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simeon Gunev\\source\\repos\\Streams\\Task3\\obj\\",
+        "outputPath": "D:\\Projects\\School\\Object-oriented Programming\\Streams\\Task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simeon Gunev\\AppData\\Roaming\\NuGet\\NuGet.Config",
