@@ -3,7 +3,6 @@ D:\Projects\School\Object-oriented Programming\Projects\Dictionary\bin\Debug\net
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\bin\Debug\net8.0-windows\Dictionary.runtimeconfig.json
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\bin\Debug\net8.0-windows\Dictionary.dll
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\bin\Debug\net8.0-windows\Dictionary.pdb
-D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\Dictionary.Form1.resources
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\Dictionary.csproj.GenerateResource.cache
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\Dictionary.AssemblyInfoInputs.cache
@@ -16,3 +15,4 @@ D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\Dictionary.genruntimeconfig.cache
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\ref\Dictionary.dll
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\Dictionary.Properties.Resources.resources
+D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\Dictionary.DictionaryForm.resources
