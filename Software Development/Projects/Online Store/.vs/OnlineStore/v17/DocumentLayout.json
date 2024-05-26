@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{400C9F6F-CF4F-496E-BDE5-45F89DF3991C}|OnlineStoreEF\\OnlineStoreEFCoreProject.csproj|d:\\projects\\school\\software development\\projects\\online store\\onlinestoreef\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400C9F6F-CF4F-496E-BDE5-45F89DF3991C}|OnlineStoreEF\\OnlineStoreEFCoreProject.csproj|solutionrelative:onlinestoreef\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{400C9F6F-CF4F-496E-BDE5-45F89DF3991C}|OnlineStoreEF\\OnlineStoreEFCoreProject.csproj|D:\\Projects\\School\\Software Development\\Projects\\Online Store\\onlinestoreef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400C9F6F-CF4F-496E-BDE5-45F89DF3991C}|OnlineStoreEF\\OnlineStoreEFCoreProject.csproj|solutionrelative:onlinestoreef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400C9F6F-CF4F-496E-BDE5-45F89DF3991C}|OnlineStoreEF\\OnlineStoreEFCoreProject.csproj|d:\\projects\\school\\software development\\projects\\online store\\onlinestoreef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400C9F6F-CF4F-496E-BDE5-45F89DF3991C}|OnlineStoreEF\\OnlineStoreEFCoreProject.csproj|solutionrelative:onlinestoreef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{400C9F6F-CF4F-496E-BDE5-45F89DF3991C}|OnlineStoreEF\\OnlineStoreEFCoreProject.csproj|d:\\projects\\school\\software development\\projects\\online store\\onlinestoreef\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400C9F6F-CF4F-496E-BDE5-45F89DF3991C}|OnlineStoreEF\\OnlineStoreEFCoreProject.csproj|solutionrelative:onlinestoreef\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400C9F6F-CF4F-496E-BDE5-45F89DF3991C}|OnlineStoreEF\\OnlineStoreEFCoreProject.csproj|d:\\projects\\school\\software development\\projects\\online store\\onlinestoreef\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400C9F6F-CF4F-496E-BDE5-45F89DF3991C}|OnlineStoreEF\\OnlineStoreEFCoreProject.csproj|solutionrelative:onlinestoreef\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\Models\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "OnlineStoreEF\\Models\\Entities\\Customer.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\Models\\Entities\\Customer.cs",
+              "RelativeToolTip": "OnlineStoreEF\\Models\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:51:26.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "OnlineStoreEF\\DatabaseHelper.cs",
               "ToolTip": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\DatabaseHelper.cs",
               "RelativeToolTip": "OnlineStoreEF\\DatabaseHelper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T10:14:57.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\Program.cs",
               "RelativeDocumentMoniker": "OnlineStoreEF\\Program.cs",
               "ToolTip": "D:\\Projects\\School\\Software Development\\Projects\\Online Store\\OnlineStoreEF\\Program.cs",
               "RelativeToolTip": "OnlineStoreEF\\Program.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHEAAAA3AAAA",
+              "ViewState": "AQIAAHEAAAAAAAAAAADwv48AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T21:24:01.327Z",
               "EditorCaption": ""

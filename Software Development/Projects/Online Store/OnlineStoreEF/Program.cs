@@ -124,6 +124,26 @@ namespace OnlineStoreEFCoreProject
                         databaseHelper.Add<Seller>(newSeller);
 
                         break;
+                    case 11:
+                        Console.Write("Enter first name: ");
+                        string newCustomerFirstName = Console.ReadLine();
+
+                        Console.Write("Enter last name: ");
+                        string newCustomerLastName = Console.ReadLine();
+
+                        Console.Write("Enter email: ");
+                        string newCustomerEmail = Console.ReadLine();
+
+                        Customer newCustomer = new Customer()
+                        {
+                            FirstName = newCustomerFirstName,
+                            LastName = newCustomerLastName,
+                            Email = newCustomerEmail
+                        };
+
+                        databaseHelper.Add<Customer>(newCustomer);
+
+                        break;
                 }
             }
         }
@@ -147,6 +167,7 @@ namespace OnlineStoreEFCoreProject
                 "------------------------------------------------------\n" +
                 "(9)\t\tAdd a new Product\n" +
                 "(10)\t\tAdd a new Seller\n" +
+                "(11)\t\tAdd a new Customer\n" +
                 "------------------------------------------------------\n" +
                 "(end)\t\tClose the Application");
         }

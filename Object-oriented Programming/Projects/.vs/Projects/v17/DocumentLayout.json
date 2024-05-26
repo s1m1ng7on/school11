@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|d:\\projects\\school\\object-oriented programming\\projects\\dictionary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|d:\\projects\\school\\object-oriented programming\\projects\\dictionary\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Dictionary\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\Properties\\Resources.resx",
+              "RelativeToolTip": "Dictionary\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-22T05:11:38.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\Form1.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Form1.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\Form1.cs [Design]",
+              "RelativeToolTip": "Dictionary\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:27:42.368Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
