@@ -2,6 +2,8 @@ namespace School
 {
     public static class Program
     {
+        public static School School { get; set; }
+
         public static Form MainForm { get; set; }
 
         /// <summary>
@@ -14,7 +16,9 @@ namespace School
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
 
-            MainForm = new Form1();
+            School = new School();
+
+            MainForm = new SchoolPanel();
             Application.Run(MainForm);
         }
     }

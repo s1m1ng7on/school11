@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 namespace School
 {
@@ -12,44 +8,59 @@ namespace School
 
         public School()
         {
-            Students = GetAllStudents();
+            Students = new List<Student>();
+            LoadStudents();
         }
 
-        public List<Student> GetAllStudents()
+        public void LoadStudents()
         {
-            List<Student> students = new List<Student>();
+            if (Students.Count > 0)
+                Students.Clear();  
 
-            using (StreamReader reader = new StreamReader("students.txt", Encoding.UTF8))
+            if (File.Exists("students.txt"))
             {
-                string line;
-                while ((line = Console.ReadLine()) != null)
+                using (StreamReader reader = new StreamReader("students.txt", Encoding.UTF8))
                 {
-                    string[] lineArgs = line.Split(' ');
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        string[] lineArgs = line.Split(' ');
 
-                    Student currentStudent = new Student(lineArgs[0], int.Parse(lineArgs[1]), lineArgs[2], lineArgs[3]);
-
-                    currentStudent.AddGrade(Subject.BulgarianLanguage, double.Parse(lineArgs[4]));
-                    currentStudent.AddGrade(Subject.ForeignLanguage, double.Parse(lineArgs[5]));
-                    currentStudent.AddGrade(Subject.Maths, double.Parse(lineArgs[6]));
-                    currentStudent.AddGrade(Subject.Physics, double.Parse(lineArgs[7]));
-                    currentStudent.AddGrade(Subject.Chemistry, double.Parse(lineArgs[8]));
-                    currentStudent.AddGrade(Subject.Biology, double.Parse(lineArgs[9]));
-
-                    students.Add(currentStudent);
+                        Student student = new Student(lineArgs[0], int.Parse(lineArgs[1]), lineArgs[2], lineArgs[3], lineArgs.Skip(4).Take(6).Select(double.Parse).ToArray());
+                        Students.Add(student);
+                    }
                 }
             }
-
-            return students;
         }
 
         public Student GetStudent(string _class, int number)
         {
-            return Students.Where(s => s.Class == _class && s.Number == number).FirstOrDefault();
+            Student student = Students.Where(s => s.Class == _class && s.Number == number).FirstOrDefault();
+
+            if (student == null)
+                throw new ArgumentException("A student in this class or with this number could not be found.");
+
+            return student;
         }
 
-        public void AddStudent()
+        public void AddStudent(string _class, int number, string firstName, string lastName, double[] grades)
         {
+            Student newStudent = new Student(_class, number, firstName, lastName, grades);
+            Students.Add(newStudent);
+            SaveStudents();
+        }
 
+        private void SaveStudents()
+        {
+            using (StreamWriter writer = new StreamWriter("students.txt", true, Encoding.UTF8))
+            {
+                foreach (Student student in Students)
+                {
+                    writer.WriteLine(student.ToShortReport());
+                }
+            }
+
+            LoadStudents();
         }
     }
 }

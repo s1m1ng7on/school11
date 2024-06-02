@@ -3,7 +3,6 @@ D:\Projects\School\Object-oriented Programming\Projects\School\bin\Debug\net8.0-
 D:\Projects\School\Object-oriented Programming\Projects\School\bin\Debug\net8.0-windows\School.runtimeconfig.json
 D:\Projects\School\Object-oriented Programming\Projects\School\bin\Debug\net8.0-windows\School.dll
 D:\Projects\School\Object-oriented Programming\Projects\School\bin\Debug\net8.0-windows\School.pdb
-D:\Projects\School\Object-oriented Programming\Projects\School\obj\Debug\net8.0-windows\School.Form1.resources
 D:\Projects\School\Object-oriented Programming\Projects\School\obj\Debug\net8.0-windows\School.csproj.GenerateResource.cache
 D:\Projects\School\Object-oriented Programming\Projects\School\obj\Debug\net8.0-windows\School.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\School\Object-oriented Programming\Projects\School\obj\Debug\net8.0-windows\School.AssemblyInfoInputs.cache
@@ -16,3 +15,4 @@ D:\Projects\School\Object-oriented Programming\Projects\School\obj\Debug\net8.0-
 D:\Projects\School\Object-oriented Programming\Projects\School\obj\Debug\net8.0-windows\School.genruntimeconfig.cache
 D:\Projects\School\Object-oriented Programming\Projects\School\obj\Debug\net8.0-windows\ref\School.dll
 D:\Projects\School\Object-oriented Programming\Projects\School\obj\Debug\net8.0-windows\School.SearchStudent.resources
+D:\Projects\School\Object-oriented Programming\Projects\School\obj\Debug\net8.0-windows\School.SchoolPanel.resources
