@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Task2
+{ 
+    public static class Program
+    {
+        public static void Main(string[] args)
+        {
+            DatabaseHelper databaseHelper = new DatabaseHelper();
+
+
+        }
+    }
+}

@@ -9,10 +9,7 @@ namespace Task2.Data.Entities
 {
     public class RoomType
     {
-        [Key]
-        public int Id { get; set; }
-
-        [Required]
-        public string Type { get; set; }
+        [Key] public string Id { get; set; }
+        [Required] public string Type { get; set; }
     }
 }

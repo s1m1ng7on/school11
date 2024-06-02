@@ -20,15 +20,5 @@ namespace Task2.Data.Entities
 
         [Required]
         public string Email { get; set; }
-
-        public Client(string fullName, string email)
-        {
-            string[] fullNameArr = fullName.Split(' ');
-
-            Id = Guid.NewGuid().ToString();
-            FirstName = fullNameArr[0];
-            LastName = fullNameArr[1];
-            Email = email;
-        }
     }
 }

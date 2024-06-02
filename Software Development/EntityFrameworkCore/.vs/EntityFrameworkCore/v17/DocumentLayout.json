@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|d:\\projects\\school\\software development\\entityframeworkcore\\task2\\data\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|d:\\projects\\school\\software development\\entityframeworkcore\\task2\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\task2\\views\\roomview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\views\\roomview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\task2\\data\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\data\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|d:\\projects\\school\\software development\\entityframeworkcore\\task2\\data\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD63B5FF-CE75-4DA4-AF92-98AB1F4F6D25}|Task1\\Task1.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\task1\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD63B5FF-CE75-4DA4-AF92-98AB1F4F6D25}|Task1\\Task1.csproj|solutionrelative:task1\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\task2\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\task2\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\task2\\data\\entities\\clientbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\data\\entities\\clientbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\task2\\data\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\data\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|d:\\projects\\school\\software development\\entityframeworkcore\\task2\\data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\task2\\data\\entities\\roombooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\data\\entities\\roombooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|d:\\projects\\school\\software development\\entityframeworkcore\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\task2\\data\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:task2\\data\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Migrations\\20240529105733_Added ClientBookings and RoomBookings DbSets to Context class..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A42E81-1A9E-4959-8209-91F51C3E9C56}|Task2\\Task2.csproj|solutionrelative:Task2\\Migrations\\20240529105733_Added ClientBookings and RoomBookings DbSets to Context class..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,46 +58,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RoomType.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\RoomType.cs",
-              "RelativeDocumentMoniker": "Task2\\Data\\Entities\\RoomType.cs",
-              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\RoomType.cs",
-              "RelativeToolTip": "Task2\\Data\\Entities\\RoomType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Title": "RoomView.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Views\\RoomView.cs",
+              "RelativeDocumentMoniker": "Task2\\Views\\RoomView.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Views\\RoomView.cs",
+              "RelativeToolTip": "Task2\\Views\\RoomView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:51:44.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Client.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\Client.cs",
-              "RelativeDocumentMoniker": "Task2\\Data\\Entities\\Client.cs",
-              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\Client.cs",
-              "RelativeToolTip": "Task2\\Data\\Entities\\Client.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:40:05.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:15:26.228Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Room.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\Room.cs",
-              "RelativeDocumentMoniker": "Task2\\Data\\Entities\\Room.cs",
-              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\Room.cs",
-              "RelativeToolTip": "Task2\\Data\\Entities\\Room.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Task2\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Task2\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:31:49.472Z",
+              "WhenOpened": "2024-05-29T11:05:33.039Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Task2\\DatabaseHelper.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\DatabaseHelper.cs",
+              "RelativeToolTip": "Task2\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:03:13.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task1\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Task1\\DatabaseHelper.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task1\\DatabaseHelper.cs",
+              "RelativeToolTip": "Task1\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:01:48.197Z"
             },
             {
               "$type": "Document",
@@ -75,10 +117,93 @@
               "RelativeDocumentMoniker": "Task2\\Program.cs",
               "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Program.cs",
               "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:58:03.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240529105733_Added ClientBookings and RoomBookings DbSets to Context class..cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Migrations\\20240529105733_Added ClientBookings and RoomBookings DbSets to Context class..cs",
+              "RelativeDocumentMoniker": "Task2\\Migrations\\20240529105733_Added ClientBookings and RoomBookings DbSets to Context class..cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Migrations\\20240529105733_Added ClientBookings and RoomBookings DbSets to Context class..cs",
+              "RelativeToolTip": "Task2\\Migrations\\20240529105733_Added ClientBookings and RoomBookings DbSets to Context class..cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:57:34.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "Task2\\Data\\Entities\\Room.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\Room.cs",
+              "RelativeToolTip": "Task2\\Data\\Entities\\Room.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:12:16.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Task2\\Data\\Context.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Context.cs",
+              "RelativeToolTip": "Task2\\Data\\Context.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:07:07.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientBooking.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\ClientBooking.cs",
+              "RelativeDocumentMoniker": "Task2\\Data\\Entities\\ClientBooking.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\ClientBooking.cs",
+              "RelativeToolTip": "Task2\\Data\\Entities\\ClientBooking.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:07:57.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\RoomType.cs",
+              "RelativeDocumentMoniker": "Task2\\Data\\Entities\\RoomType.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\RoomType.cs",
+              "RelativeToolTip": "Task2\\Data\\Entities\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:04:47.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "Task2\\Data\\Entities\\Booking.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\Booking.cs",
+              "RelativeToolTip": "Task2\\Data\\Entities\\Booking.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:28:56.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T09:55:36.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomBooking.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\RoomBooking.cs",
+              "RelativeDocumentMoniker": "Task2\\Data\\Entities\\RoomBooking.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EntityFrameworkCore\\Task2\\Data\\Entities\\RoomBooking.cs",
+              "RelativeToolTip": "Task2\\Data\\Entities\\RoomBooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:55:03.557Z"
             }
           ]
         }
