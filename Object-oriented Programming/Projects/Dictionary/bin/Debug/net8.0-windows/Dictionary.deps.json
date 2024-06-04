@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Dictionary/1.0.0": {
+        "dependencies": {
+          "Helpers": "1.0.0"
+        },
         "runtime": {
           "Dictionary.dll": {}
+        }
+      },
+      "Helpers/1.0.0": {
+        "runtime": {
+          "Helpers.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Helpers/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -6,9 +6,16 @@ namespace Helpers
     {
         public static string[] Read(string filePath)
         {
-            using (StreamReader reader = new StreamReader(filePath, Encoding.UTF8))
+            if (File.Exists(filePath))
             {
-                return reader.ReadToEnd().Split("\n");
+                using (StreamReader reader = new StreamReader(filePath, Encoding.UTF8))
+                {
+                    return reader.ReadToEnd().Split("\n");
+                }
+            }
+            else
+            {
+                return Array.Empty<string>();
             }
         }
 

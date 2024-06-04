@@ -1,0 +1,12 @@
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\bin\Debug\net8.0\Helpers.deps.json
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\bin\Debug\net8.0\Helpers.dll
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\bin\Debug\net8.0\Helpers.pdb
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\Helpers.AssemblyInfoInputs.cache
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\Helpers.AssemblyInfo.cs
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\Helpers.csproj.CoreCompileInputs.cache
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\Helpers.sourcelink.json
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\Helpers.dll
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\refint\Helpers.dll
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\Helpers.pdb
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\ref\Helpers.dll

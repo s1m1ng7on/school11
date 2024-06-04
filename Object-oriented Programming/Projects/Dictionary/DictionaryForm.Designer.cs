@@ -55,7 +55,6 @@
             // toggleAddButton
             // 
             toggleAddButton.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            toggleAddButton.Image = Properties.Resources.addIcon;
             toggleAddButton.Location = new Point(1041, 7);
             toggleAddButton.Margin = new Padding(3, 2, 3, 2);
             toggleAddButton.Name = "toggleAddButton";
@@ -67,7 +66,6 @@
             // toggleSearchButton
             // 
             toggleSearchButton.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            toggleSearchButton.Image = Properties.Resources.addIcon;
             toggleSearchButton.Location = new Point(984, 7);
             toggleSearchButton.Margin = new Padding(3, 2, 3, 2);
             toggleSearchButton.Name = "toggleSearchButton";
@@ -99,7 +97,6 @@
             performOperationButton.TabIndex = 5;
             performOperationButton.Text = "ADD";
             performOperationButton.UseVisualStyleBackColor = true;
-            performOperationButton.Click += performOperationButton_Click;
             // 
             // operationPanel
             // 
@@ -107,7 +104,7 @@
             operationPanel.Controls.Add(performOperationButton);
             operationPanel.Controls.Add(operationDefinitionTextBox);
             operationPanel.Controls.Add(operationWordTextBox);
-            operationPanel.Location = new Point(763, 48);
+            operationPanel.Location = new Point(757, 57);
             operationPanel.Name = "operationPanel";
             operationPanel.Size = new Size(336, 42);
             operationPanel.TabIndex = 6;
@@ -115,7 +112,6 @@
             // refreshDictionaryButton
             // 
             refreshDictionaryButton.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            refreshDictionaryButton.Image = Properties.Resources.addIcon;
             refreshDictionaryButton.Location = new Point(926, 7);
             refreshDictionaryButton.Margin = new Padding(3, 2, 3, 2);
             refreshDictionaryButton.Name = "refreshDictionaryButton";
@@ -132,7 +128,6 @@
             wordsListBox.Name = "wordsListBox";
             wordsListBox.Size = new Size(305, 394);
             wordsListBox.TabIndex = 9;
-            wordsListBox.SelectedValueChanged += wordsListBox_SelectedValueChanged;
             // 
             // wordLabel
             // 
@@ -169,6 +164,7 @@
             Margin = new Padding(3, 2, 3, 2);
             Name = "DictionaryForm";
             Text = "Dictionary";
+            Load += DictionaryForm_Load;
             operationPanel.ResumeLayout(false);
             operationPanel.PerformLayout();
             ResumeLayout(false);
