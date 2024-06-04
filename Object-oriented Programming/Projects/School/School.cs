@@ -4,6 +4,9 @@ namespace School
 {
     public class School
     {
+        private const string studentsDataFilePath = "students.txt";
+
+        public Student SelectedStudent { get; set; } 
         public List<Student> Students { get; set; }
 
         public School()
@@ -12,14 +15,29 @@ namespace School
             LoadStudents();
         }
 
-        public void LoadStudents()
+        public Student GetStudent(string _class, int number)
+        {
+            return Students.Where(s => s.Class == _class && s.Number == number).FirstOrDefault();
+        }
+
+        public void AddStudent(string _class, int number, string firstName, string lastName, double[] grades)
+        {
+            if (Students.Where(s => s.Class == _class && s.Number == number).FirstOrDefault() == null)
+            {
+                Student newStudent = new Student(_class, number, firstName, lastName, grades);
+                Students.Add(newStudent);
+                SaveStudents();
+            }
+        }
+
+        private void LoadStudents()
         {
             if (Students.Count > 0)
-                Students.Clear();  
+                Students.Clear();
 
-            if (File.Exists("students.txt"))
+            if (File.Exists(studentsDataFilePath))
             {
-                using (StreamReader reader = new StreamReader("students.txt", Encoding.UTF8))
+                using (StreamReader reader = new StreamReader(studentsDataFilePath, Encoding.UTF8))
                 {
                     string line;
                     while ((line = reader.ReadLine()) != null)
@@ -33,31 +51,12 @@ namespace School
             }
         }
 
-        public Student GetStudent(string _class, int number)
-        {
-            Student student = Students.Where(s => s.Class == _class && s.Number == number).FirstOrDefault();
-
-            if (student == null)
-                throw new ArgumentException("A student in this class or with this number could not be found.");
-
-            return student;
-        }
-
-        public void AddStudent(string _class, int number, string firstName, string lastName, double[] grades)
-        {
-            Student newStudent = new Student(_class, number, firstName, lastName, grades);
-            Students.Add(newStudent);
-            SaveStudents();
-        }
-
         private void SaveStudents()
         {
-            using (StreamWriter writer = new StreamWriter("students.txt", true, Encoding.UTF8))
+            using (StreamWriter writer = new StreamWriter(studentsDataFilePath, false, Encoding.UTF8))
             {
                 foreach (Student student in Students)
-                {
                     writer.WriteLine(student.ToShortReport());
-                }
             }
 
             LoadStudents();

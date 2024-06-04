@@ -40,47 +40,44 @@
             // numberTextBox
             // 
             numberTextBox.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            numberTextBox.Location = new Point(192, 9);
-            numberTextBox.Margin = new Padding(3, 2, 3, 2);
+            numberTextBox.Location = new Point(214, 12);
             numberTextBox.Name = "numberTextBox";
-            numberTextBox.Size = new Size(48, 32);
+            numberTextBox.Size = new Size(54, 38);
             numberTextBox.TabIndex = 7;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Sitka Display Semibold", 14F, FontStyle.Bold);
-            label1.Location = new Point(149, 9);
+            label1.Location = new Point(165, 12);
             label1.Name = "label1";
-            label1.Size = new Size(38, 28);
+            label1.Size = new Size(47, 35);
             label1.TabIndex = 6;
             label1.Text = "№:";
             // 
             // classTextBox
             // 
             classTextBox.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            classTextBox.Location = new Point(76, 9);
-            classTextBox.Margin = new Padding(3, 2, 3, 2);
+            classTextBox.Location = new Point(82, 12);
             classTextBox.Name = "classTextBox";
-            classTextBox.Size = new Size(48, 32);
+            classTextBox.Size = new Size(54, 38);
             classTextBox.TabIndex = 5;
             // 
             // classLabel
             // 
             classLabel.AutoSize = true;
             classLabel.Font = new Font("Sitka Display Semibold", 14F, FontStyle.Bold);
-            classLabel.Location = new Point(15, 9);
+            classLabel.Location = new Point(12, 12);
             classLabel.Name = "classLabel";
-            classLabel.Size = new Size(57, 28);
+            classLabel.Size = new Size(71, 35);
             classLabel.TabIndex = 4;
             classLabel.Text = "Клас:";
             // 
             // showFileButton
             // 
-            showFileButton.Location = new Point(259, 9);
-            showFileButton.Margin = new Padding(3, 2, 3, 2);
+            showFileButton.Location = new Point(662, 13);
             showFileButton.Name = "showFileButton";
-            showFileButton.Size = new Size(430, 28);
+            showFileButton.Size = new Size(588, 37);
             showFileButton.TabIndex = 18;
             showFileButton.Text = "Търси Ученик";
             showFileButton.UseVisualStyleBackColor = true;
@@ -88,28 +85,29 @@
             // 
             // studentInfoRichTextBox
             // 
-            studentInfoRichTextBox.Location = new Point(15, 42);
-            studentInfoRichTextBox.Margin = new Padding(3, 2, 3, 2);
+            studentInfoRichTextBox.Location = new Point(12, 56);
             studentInfoRichTextBox.Name = "studentInfoRichTextBox";
             studentInfoRichTextBox.ReadOnly = true;
-            studentInfoRichTextBox.Size = new Size(675, 183);
+            studentInfoRichTextBox.Size = new Size(1238, 570);
             studentInfoRichTextBox.TabIndex = 19;
             studentInfoRichTextBox.Text = "";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(15, 229);
+            label2.Font = new Font("Sitka Display Semibold", 14F, FontStyle.Bold);
+            label2.Location = new Point(12, 629);
             label2.Name = "label2";
-            label2.Size = new Size(460, 15);
+            label2.Size = new Size(884, 35);
             label2.TabIndex = 20;
             label2.Text = "При празни полета за клас и номер се показва кратка справка за всички ученици.";
             // 
             // SearchStudent
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(700, 253);
+            BackColor = SystemColors.ControlDark;
+            ClientSize = new Size(1262, 673);
             Controls.Add(label2);
             Controls.Add(studentInfoRichTextBox);
             Controls.Add(showFileButton);
@@ -117,9 +115,10 @@
             Controls.Add(label1);
             Controls.Add(classTextBox);
             Controls.Add(classLabel);
-            Margin = new Padding(3, 2, 3, 2);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "SearchStudent";
-            Text = "SearchStudent";
+            ShowIcon = false;
+            Text = "School";
             FormClosed += SearchStudent_FormClosed;
             ResumeLayout(false);
             PerformLayout();

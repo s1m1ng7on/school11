@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|d:\\projects\\school\\object-oriented programming\\projects\\school\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|solutionrelative:school\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|d:\\projects\\school\\object-oriented programming\\projects\\dictionary\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|D:\\Projects\\School\\Object-oriented Programming\\Projects\\school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|solutionrelative:school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E76749A0-F185-4D43-9A31-4EBC1FF9463C}|HelpersLibrary\\Helpers.csproj|d:\\projects\\school\\object-oriented programming\\projects\\helperslibrary\\streamhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76749A0-F185-4D43-9A31-4EBC1FF9463C}|HelpersLibrary\\Helpers.csproj|solutionrelative:helperslibrary\\streamhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|d:\\projects\\school\\object-oriented programming\\projects\\school\\core\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|solutionrelative:school\\core\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|D:\\Projects\\School\\Object-oriented Programming\\Projects\\school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|solutionrelative:school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|D:\\Projects\\School\\Object-oriented Programming\\Projects\\school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|solutionrelative:school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|D:\\Projects\\School\\Object-oriented Programming\\Projects\\school\\searchstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|solutionrelative:school\\searchstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|D:\\Projects\\School\\Object-oriented Programming\\Projects\\school\\searchstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FDD45F3-4DC0-408C-A529-BF847A2D3B4E}|School\\School.csproj|solutionrelative:school\\searchstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|D:\\Projects\\School\\Object-oriented Programming\\Projects\\dictionary\\dictionaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\dictionaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,90 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Singleton.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\Core\\Singleton.cs",
-              "RelativeDocumentMoniker": "School\\Core\\Singleton.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\Core\\Singleton.cs",
-              "RelativeToolTip": "School\\Core\\Singleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "DocumentIndex": 1,
+              "Title": "StreamHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\HelpersLibrary\\StreamHelper.cs",
+              "RelativeDocumentMoniker": "HelpersLibrary\\StreamHelper.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\HelpersLibrary\\StreamHelper.cs",
+              "RelativeToolTip": "HelpersLibrary\\StreamHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T09:23:40.832Z",
+              "WhenOpened": "2024-06-03T11:06:40.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "School.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\School.cs",
-              "RelativeDocumentMoniker": "School\\School.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\School.cs",
-              "RelativeToolTip": "School\\School.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAAAAAA",
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\Dictionary.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Dictionary.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\Dictionary.cs",
+              "RelativeToolTip": "Dictionary\\Dictionary.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T05:34:39.971Z",
+              "WhenOpened": "2024-06-03T11:02:36.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SearchStudent.cs [Design]",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\SearchStudent.cs",
-              "RelativeDocumentMoniker": "School\\SearchStudent.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\SearchStudent.cs [Design]",
-              "RelativeToolTip": "School\\SearchStudent.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "DictionaryForm.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\DictionaryForm.cs",
+              "RelativeDocumentMoniker": "Dictionary\\DictionaryForm.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\DictionaryForm.cs [Design]",
+              "RelativeToolTip": "Dictionary\\DictionaryForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T11:17:14.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\Form1.cs",
-              "RelativeDocumentMoniker": "School\\Form1.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\Form1.cs [Design]",
-              "RelativeToolTip": "School\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:02:25.236Z",
+              "WhenOpened": "2024-06-03T11:02:02.692Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\Program.cs",
-              "RelativeDocumentMoniker": "School\\Program.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\Program.cs",
-              "RelativeToolTip": "School\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T05:14:27.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\Form1.cs",
-              "RelativeDocumentMoniker": "School\\Form1.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\Form1.cs",
-              "RelativeToolTip": "School\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T10:56:19.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SearchStudent.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\SearchStudent.cs",
-              "RelativeDocumentMoniker": "School\\SearchStudent.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\School\\SearchStudent.cs",
-              "RelativeToolTip": "School\\SearchStudent.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T05:13:43.208Z"
             }
           ]
         }

@@ -31,19 +31,15 @@ namespace School
             
             if (formHelper.AreAllTextBoxesFilled())
             {
-                try
-                {
-                    Student student = Program.School.GetStudent(
+                Student student = Program.School.GetStudent(
                     classTextBox.Text,
                     int.Parse(numberTextBox.Text)
-                    );
+                );
 
+                if (student != null)
                     result = student.ToLongReport();
-                }
-                catch (Exception exception)
-                {
-                    result = exception.Message;
-                }
+                else
+                    result = "Ученик в този клас или с такъв номер не беше намерен.";
             }
             else
             {
@@ -51,6 +47,9 @@ namespace School
                 {
                     result = reader.ReadToEnd();
                 }
+
+                //Alternative way without reading from the text file
+                //result = string.Join("\n", Program.School.Students.Select(s => s.ToShortReport()).ToArray());
             }
 
             studentInfoRichTextBox.Text = result;
