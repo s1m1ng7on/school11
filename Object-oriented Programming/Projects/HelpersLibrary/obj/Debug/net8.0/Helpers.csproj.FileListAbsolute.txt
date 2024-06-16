@@ -10,3 +10,4 @@ D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug
 D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\refint\Helpers.dll
 D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\Helpers.pdb
 D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\ref\Helpers.dll
+D:\Projects\School\Object-oriented Programming\Projects\HelpersLibrary\obj\Debug\net8.0\Helpers.csproj.ResolveComReference.cache

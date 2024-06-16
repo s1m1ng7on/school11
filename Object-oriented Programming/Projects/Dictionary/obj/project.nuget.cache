@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MN745NyfLQhAD9gA0yOO63nYy3JcyY4Iur1pTph1brl+uUnPoaJNKmOUrGgqjxW7JGThpsXM4mVSrgOtBNgACg==",
+  "dgSpecHash": "omQzrPea9O7WDxJBJC6l0xcwpzIZTzAOwci52laFHQM9SLrWYfhUUNTbDpcIRh2ItlFVsgbFgeJSviI6QXySzw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\Dictionary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Simeon Gunev\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\Simeon Gunev\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Simeon Gunev\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

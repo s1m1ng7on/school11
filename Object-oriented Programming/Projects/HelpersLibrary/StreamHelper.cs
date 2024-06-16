@@ -10,7 +10,15 @@ namespace Helpers
             {
                 using (StreamReader reader = new StreamReader(filePath, Encoding.UTF8))
                 {
-                    return reader.ReadToEnd().Split("\n");
+                    List<string> data = new List<string>();
+
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        data.Add(line);
+                    }
+
+                    return data.ToArray();
                 }
             }
             else

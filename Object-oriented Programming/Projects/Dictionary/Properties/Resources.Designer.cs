@@ -63,9 +63,9 @@ namespace Dictionary.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap addIcon {
+        internal static System.Drawing.Bitmap AddIcon {
             get {
-                object obj = ResourceManager.GetObject("addIcon", resourceCulture);
+                object obj = ResourceManager.GetObject("AddIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Dictionary.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap searchIcon {
+        internal static System.Drawing.Bitmap SearchIcon {
             get {
-                object obj = ResourceManager.GetObject("searchIcon", resourceCulture);
+                object obj = ResourceManager.GetObject("SearchIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

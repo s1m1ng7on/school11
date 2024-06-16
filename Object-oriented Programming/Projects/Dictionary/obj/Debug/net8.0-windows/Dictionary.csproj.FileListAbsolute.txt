@@ -19,4 +19,4 @@ D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\bin\Debug\net8.0-windows\Helpers.dll
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\bin\Debug\net8.0-windows\Helpers.pdb
 D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\Dictionary.csproj.AssemblyReference.cache
-D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\Dictionary.csproj.CopyComplete
+D:\Projects\School\Object-oriented Programming\Projects\Dictionary\obj\Debug\net8.0-windows\Dictionary.csproj.Up2Date

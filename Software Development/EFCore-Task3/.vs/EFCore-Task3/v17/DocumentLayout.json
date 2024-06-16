@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|d:\\projects\\school\\software development\\efcore-task3\\efcore-task3\\startupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|solutionrelative:efcore-task3\\startupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|d:\\projects\\school\\software development\\efcore-task3\\efcore-task3\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|solutionrelative:efcore-task3\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|D:\\Projects\\School\\Software Development\\EFCore-Task3\\efcore-task3\\data\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|solutionrelative:efcore-task3\\data\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|D:\\Projects\\School\\Software Development\\EFCore-Task3\\efcore-task3\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|solutionrelative:efcore-task3\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|D:\\Projects\\School\\Software Development\\EFCore-Task3\\efcore-task3\\data\\entities\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|solutionrelative:efcore-task3\\data\\entities\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|D:\\Projects\\School\\Software Development\\EFCore-Task3\\efcore-task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|solutionrelative:efcore-task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|D:\\Projects\\School\\Software Development\\EFCore-Task3\\efcore-task3\\data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|solutionrelative:efcore-task3\\data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|D:\\Projects\\School\\Software Development\\EFCore-Task3\\efcore-task3\\data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|solutionrelative:efcore-task3\\data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Migrations\\20240611121101_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1AC352-B70A-4AFD-AB86-2E34236DB53A}|EFCore-Task3\\EFCore-Task3.csproj|solutionrelative:EFCore-Task3\\Migrations\\20240611121101_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartupData.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\StartupData.cs",
+              "RelativeDocumentMoniker": "EFCore-Task3\\StartupData.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\StartupData.cs",
+              "RelativeToolTip": "EFCore-Task3\\StartupData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:25:45.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Controller.cs",
+              "RelativeDocumentMoniker": "EFCore-Task3\\Controller.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Controller.cs",
+              "RelativeToolTip": "EFCore-Task3\\Controller.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:13:52.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Data\\Entities\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "EFCore-Task3\\Data\\Entities\\EmployeeProject.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Data\\Entities\\EmployeeProject.cs",
+              "RelativeToolTip": "EFCore-Task3\\Data\\Entities\\EmployeeProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:09:06.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "EFCore-Task3\\Data\\Context.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Data\\Context.cs",
+              "RelativeToolTip": "EFCore-Task3\\Data\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:06:17.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Data\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "EFCore-Task3\\Data\\Entities\\Project.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Data\\Entities\\Project.cs",
+              "RelativeToolTip": "EFCore-Task3\\Data\\Entities\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:05:20.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Data\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCore-Task3\\Data\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Data\\Entities\\Employee.cs",
+              "RelativeToolTip": "EFCore-Task3\\Data\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:04:48.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Data\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "EFCore-Task3\\Data\\Entities\\Department.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Data\\Entities\\Department.cs",
+              "RelativeToolTip": "EFCore-Task3\\Data\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:04:41.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore-Task3\\Program.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Program.cs",
+              "RelativeToolTip": "EFCore-Task3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:03:45.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240611121101_Initial Migration.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Migrations\\20240611121101_Initial Migration.cs",
+              "RelativeDocumentMoniker": "EFCore-Task3\\Migrations\\20240611121101_Initial Migration.cs",
+              "ToolTip": "D:\\Projects\\School\\Software Development\\EFCore-Task3\\EFCore-Task3\\Migrations\\20240611121101_Initial Migration.cs",
+              "RelativeToolTip": "EFCore-Task3\\Migrations\\20240611121101_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:11:02.323Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

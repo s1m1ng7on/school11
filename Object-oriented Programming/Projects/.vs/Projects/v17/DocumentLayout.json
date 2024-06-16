@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|d:\\projects\\school\\object-oriented programming\\projects\\dictionary\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E76749A0-F185-4D43-9A31-4EBC1FF9463C}|HelpersLibrary\\Helpers.csproj|d:\\projects\\school\\object-oriented programming\\projects\\helperslibrary\\streamhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E76749A0-F185-4D43-9A31-4EBC1FF9463C}|HelpersLibrary\\Helpers.csproj|solutionrelative:helperslibrary\\streamhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|D:\\Projects\\School\\Object-oriented Programming\\Projects\\dictionary\\dictionaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\dictionaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|d:\\projects\\school\\object-oriented programming\\projects\\dictionary\\dictionaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\dictionaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|D:\\Projects\\School\\Object-oriented Programming\\Projects\\dictionary\\worddictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\worddictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|d:\\projects\\school\\object-oriented programming\\projects\\dictionary\\dictionaryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20299979-E21E-4CE6-8634-244DD7F4333F}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\dictionaryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76749A0-F185-4D43-9A31-4EBC1FF9463C}|HelpersLibrary\\Helpers.csproj|D:\\Projects\\School\\Object-oriented Programming\\Projects\\helperslibrary\\streamhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76749A0-F185-4D43-9A31-4EBC1FF9463C}|HelpersLibrary\\Helpers.csproj|solutionrelative:helperslibrary\\streamhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StreamHelper.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\HelpersLibrary\\StreamHelper.cs",
-              "RelativeDocumentMoniker": "HelpersLibrary\\StreamHelper.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\HelpersLibrary\\StreamHelper.cs",
-              "RelativeToolTip": "HelpersLibrary\\StreamHelper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "DocumentIndex": 3,
+              "Title": "DictionaryForm.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\DictionaryForm.Designer.cs",
+              "RelativeDocumentMoniker": "Dictionary\\DictionaryForm.Designer.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\DictionaryForm.Designer.cs",
+              "RelativeToolTip": "Dictionary\\DictionaryForm.Designer.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAArwNoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:06:40.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dictionary.cs",
-              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\Dictionary.cs",
-              "RelativeDocumentMoniker": "Dictionary\\Dictionary.cs",
-              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\Dictionary.cs",
-              "RelativeToolTip": "Dictionary\\Dictionary.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:02:36.036Z",
+              "WhenOpened": "2024-06-14T09:48:37.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "WordDictionary.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\WordDictionary.cs",
+              "RelativeDocumentMoniker": "Dictionary\\WordDictionary.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\WordDictionary.cs",
+              "RelativeToolTip": "Dictionary\\WordDictionary.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:02:01.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DictionaryForm.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\DictionaryForm.cs",
               "RelativeDocumentMoniker": "Dictionary\\DictionaryForm.cs",
               "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\DictionaryForm.cs [Design]",
               "RelativeToolTip": "Dictionary\\DictionaryForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:02:02.692Z",
+              "WhenOpened": "2024-06-05T08:57:30.414Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DictionaryForm.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\DictionaryForm.cs",
+              "RelativeDocumentMoniker": "Dictionary\\DictionaryForm.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\Dictionary\\DictionaryForm.cs",
+              "RelativeToolTip": "Dictionary\\DictionaryForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:16:28.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StreamHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\HelpersLibrary\\StreamHelper.cs",
+              "RelativeDocumentMoniker": "HelpersLibrary\\StreamHelper.cs",
+              "ToolTip": "D:\\Projects\\School\\Object-oriented Programming\\Projects\\HelpersLibrary\\StreamHelper.cs",
+              "RelativeToolTip": "HelpersLibrary\\StreamHelper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:06:40.325Z",
+              "EditorCaption": ""
             }
           ]
         }
